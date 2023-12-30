@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\xampl1\htdocs\~~ VISUAL STUDIO 2022 PROJECTS ~~\imgui hacks\imgui hacks\cheat\main.cpp(42,33): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\xampl1\htdocs\~~ VISUAL STUDIO 2022 PROJECTS ~~\imgui hacks\imgui hacks\cheat\main.cpp(45,33): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\xampl1\htdocs\~~ VISUAL STUDIO 2022 PROJECTS ~~\imgui hacks\imgui hacks\cheat\main.cpp(51,33): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\xampl1\htdocs\~~ VISUAL STUDIO 2022 PROJECTS ~~\imgui hacks\imgui hacks\cheat\main.cpp(54,33): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\xampl1\htdocs\~~ VISUAL STUDIO 2022 PROJECTS ~~\imgui hacks\imgui hacks\cheat\main.cpp(60,33): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\xampl1\htdocs\~~ VISUAL STUDIO 2022 PROJECTS ~~\imgui hacks\imgui hacks\cheat\main.cpp(63,33): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\xampl1\htdocs\~~ VISUAL STUDIO 2022 PROJECTS ~~\imgui hacks\imgui hacks\cheat\main.cpp(69,33): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\xampl1\htdocs\~~ VISUAL STUDIO 2022 PROJECTS ~~\imgui hacks\imgui hacks\cheat\main.cpp(72,33): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\xampl1\htdocs\~~ VISUAL STUDIO 2022 PROJECTS ~~\imgui hacks\imgui hacks\cheat\main.cpp(79,34): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\xampl1\htdocs\~~ VISUAL STUDIO 2022 PROJECTS ~~\imgui hacks\imgui hacks\cheat\main.cpp(82,34): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  Generating code
+  1 of 138 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  imgui hacks.vcxproj -> D:\xampl1\htdocs\~~ VISUAL STUDIO 2022 PROJECTS ~~\imgui hacks\x64\Release\imgui hacks.exe
